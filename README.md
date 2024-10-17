@@ -8,6 +8,6 @@ Happy Halloween!
 
 [My Python Script](steins_gate_captcha.py) can be compiled with `pyinstaller --onefile --windowed steins_gate_captcha.py`.
 
-The prebuild `steins_gate_captcha.exe` file can be found int the `dist` folder.
+The submission with the built binary and sourcecode can be found [in the releases section](https://github.com/JohnTitor2036/Halloween_2024_Programming_Challenge/releases/tag/v2036)
 
 ![Makise_Kurisu_Python.jpg](assets/Makise_Kurisu_Python.jpg "Makise_Kurisu_Python")
