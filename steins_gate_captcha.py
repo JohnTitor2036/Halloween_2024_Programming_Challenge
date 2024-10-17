@@ -127,7 +127,7 @@ class SteinsGateChallenge:
 
         execute_button = tk.Button(
             self.future_gadget_lab,
-            text='Execute Operation Skuld',
+            text='Execute The Operation',
             command=self.verify_world_line,
             bg='#00ff00',
             activebackground='#00cc00',
